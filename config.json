@@ -1,0 +1,14 @@
+{
+  "name": "My Repository",
+  "version": "1.0",
+  "games": [
+    {
+      "id": "example-game",
+      "name": "Example Game",
+      "version": "1.0",
+      "downloads": {
+        "win": "https://example.com/game.zip"
+      }
+    }
+  ]
+}
